@@ -1,6 +1,6 @@
 <?php
 /* Constantes de connexion */
-define("DB", "mysql:host=localhost;dbname=MemoryCard");
-define("PASSWD", "MacTimCo2716");
-define("USER", "timotheecotrel");
+define("DB", "mysql:host=HOST;dbname=DB");
+define("PASSWD", "MDP");
+define("USER", "USER");
 ?>
